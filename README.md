@@ -6,7 +6,7 @@ This is my portfolio website to present to potentional employers. The porfolio c
 
 ## Demo
 
-Live demonstration of a website can be found by the folowing link: 
+Live demonstration of a website can be found by the folowing link: https://yiaoma.github.io/User-Centric_Frontend_Development_Project/.
 
 ## UX
 
